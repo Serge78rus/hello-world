@@ -1,4 +1,4 @@
 # hello-world
-study github
 
-and testing it functional
+Study github and testing its functional
+
