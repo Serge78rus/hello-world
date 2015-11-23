@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+body {
+	margin:0;
+	padding:0;
+	background:#e0e0e0;
+	overflow:hidden;
+	font: 16px "Times New Roman", "Times CY", "Nimbus Roman No9 L", serif;
+}
